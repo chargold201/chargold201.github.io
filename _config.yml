@@ -1,11 +1,11 @@
 # Site settings
 author: Charlotte Goldthwaite
-title: 
+title: Girls Meets "Hello, World"
 header-img: img/home-bg.png
 email: chargold201@gmail.com
 copyright_name: Charlotte Goldthwaite
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey from zero to web dev hero
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: barelybeengone
 github_username:  chargold201
