@@ -21,5 +21,5 @@ Recently, thanks to Twitter and the DOC, or Diabetic Online Community, I came ac
 
 Many of you reading, if you don't have first hand experience with Type 1 Diabetes, won't realize what a big deal this is, but it's HUGE. It's also been a major goal of mine in life to help others with diabetes, and now, thanks to this amazing online community of diabetics, I know that I can do that through being a software developer. I am so excited to hopefully be able to work on a project like this in the future.
 
-For more info: [https://openaps.org/](https://openaps.org/), [https://loopkit.github.io/loopdocs/](https://loopkit.github.io/loopdocs/)
+For more info: [OpenAPS](https://openaps.org/), [Loop](https://loopkit.github.io/loopdocs/), [Medicine Ignored This Insulin Problem. Hackers Solved It.](https://medium.com/neodotlife/dana-lewis-open-aps-hack-artificial-pancreas-af6ef23a997f)
 
