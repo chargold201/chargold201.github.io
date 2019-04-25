@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hacking My Pancreas"
-date:       2019-04-25 15:47:07 +0000
+date:       2019-04-25 11:47:07 -0400
 permalink:  hacking_my_pancreas
 ---
 
@@ -21,5 +21,5 @@ Recently, thanks to Twitter and the DOC, or Diabetic Online Community, I came ac
 
 Many of you reading, if you don't have first hand experience with Type 1 Diabetes, won't realize what a big deal this is, but it's HUGE. It's also been a huge goal of mine in life to help others with diabetes, and now, thanks to this amazing online community of diabetics, I know that I can do that through being a software developer. I am so excited to hopefully be able to work on a project like this in the future.
 
-For more info: https://openaps.org/, https://loopkit.github.io/loopdocs/
+For more info: [https://openaps.org/](https://openaps.org/), [https://loopkit.github.io/loopdocs/](https://loopkit.github.io/loopdocs/)
 
